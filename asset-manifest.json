@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TailwindReact/static/css/main.72be0c98.css",
+    "main.js": "/TailwindReact/static/js/main.d4d8b646.js",
+    "static/media/1.png": "/TailwindReact/static/media/1.5074d905854ff52d6dda.png",
+    "static/media/4.jpg": "/TailwindReact/static/media/4.f12fd2831660cf86c845.jpg",
+    "static/media/3.jpg": "/TailwindReact/static/media/3.29160e50a40788b7078c.jpg",
+    "static/media/new.jpg": "/TailwindReact/static/media/new.67b9c9aa2d4e706856a4.jpg",
+    "static/media/2.jpg": "/TailwindReact/static/media/2.a6753bee91dbb5989a56.jpg",
+    "static/media/5.jpg": "/TailwindReact/static/media/5.a43c6f04f9d874e84b0b.jpg",
+    "index.html": "/TailwindReact/index.html",
+    "main.72be0c98.css.map": "/TailwindReact/static/css/main.72be0c98.css.map",
+    "main.d4d8b646.js.map": "/TailwindReact/static/js/main.d4d8b646.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72be0c98.css",
+    "static/js/main.d4d8b646.js"
+  ]
+}
